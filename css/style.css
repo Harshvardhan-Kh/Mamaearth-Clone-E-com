@@ -1,0 +1,46 @@
+body
+{
+margin: 0;
+padding: 0;
+font-family:  "Open Sans", sans-serif;
+}
+
+.notification-bar
+{
+  background-color: #D4424c;
+  font-size: 12px;
+  padding-left: 2vw;
+  padding-right: 2vw;
+  position: sticky;
+}
+
+.txt-dec
+{
+  text-decoration: none;
+  color: #ffffff;
+}
+.notification
+{
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  align-items: center;
+  position: relative;
+  padding: 3px;
+}
+
+.cart-out
+{
+  color: #00afef;
+  height: 20px;
+  width: 20px;
+}
+
+.no-dec
+{
+  text-decoration: none;
+  color: black;
+  margin-left: 2px;
+  margin-right: 40px;
+
+}
